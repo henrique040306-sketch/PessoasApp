@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.exemplo.pessoasapp-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "com.exemplo.pessoasapp-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.exemplo.pessoasapp-mergeDebugResources-42:/layout/activity_formulario_pessoa.xml",
+        "source": "com.exemplo.pessoasapp-main-45:/layout/activity_formulario_pessoa.xml"
+    },
+    {
+        "merged": "com.exemplo.pessoasapp-mergeDebugResources-42:/layout/item_pessoa.xml",
+        "source": "com.exemplo.pessoasapp-main-45:/layout/item_pessoa.xml"
+    }
+]
